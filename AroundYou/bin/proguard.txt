@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:12
+-keep class com.example.aroundyou.DashboardActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.example.aroundyou.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.example.aroundyou.RegisterActivity { <init>(...); }
+
